@@ -10,3 +10,5 @@ def final_exams (maths,english):
     english.subject = 'Easy'
 
 final_exams(test('maths'), my_test)
+
+print("Working")
