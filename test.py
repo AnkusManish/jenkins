@@ -1,3 +1,6 @@
+import pandas 
+import flake8
+
 class test:
     def __init__(self,subject):
         self.subject = 'Maths'
