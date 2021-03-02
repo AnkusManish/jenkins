@@ -1,5 +1,6 @@
 import pandas 
 import flake8
+import sys
 
 class test:
     def __init__(self,subject):
@@ -15,3 +16,5 @@ def final_exams (maths,english):
 final_exams(test('maths'), my_test)
 
 print("Working")
+
+sys.exit(1)
