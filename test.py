@@ -17,4 +17,4 @@ final_exams(test('maths'), my_test)
 
 print("Working")
 
-sys.exit(1)
+sys.exit(0)
